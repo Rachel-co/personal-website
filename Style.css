@@ -1,0 +1,75 @@
+body {
+    text-align: center;
+   
+}
+
+#img1,
+#img2 {
+    width: 100;
+    height: 100;
+    border-radius: 10%;
+    
+}
+
+h1 {
+    font-size: 20;
+    color: coral;
+
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+
+}
+
+.menu {
+    list-style: none;
+    font-family: "cenzel decorative", cursive;
+    float: right;
+    margin-top: 10px;
+    margin-right: 30px;
+    cursor: pointer;
+    color: black;
+    z-index: 10;
+    position: absolute;
+}
+
+#about {
+    padding: 70px;
+    text-align: center;
+
+}
+
+.link {
+    color: yellow;
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+}
+
+.link;
+
+hover {
+    background-color: beige;
+}
+#welcome{
+ padding: 20px;
+    font-size: 35;
+    z-index: 9;
+     background-color: linear-gradiant (#3efa6a 0%, #f5f125 100%);
+     display: table;
+    height: 100%;
+    width: 100%;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    height: 8px;
+    width:800px;
+    
+}
